@@ -23,9 +23,6 @@ O objetivo inicial é criar o **primeiro contato do usuário com o aplicativo mo
 
 ---
 
-
----
-
 ## Telas Desenvolvidas
 
 ### Home
@@ -53,7 +50,6 @@ O objetivo inicial é criar o **primeiro contato do usuário com o aplicativo mo
 
 ---
 
-## Como Executar
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seuusuario/YURIAPP.git
+## Link do repositório:
+
+   [Github](https://github.com/YuriBragaJR/ReUseApp.git)
