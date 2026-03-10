@@ -1,5 +1,4 @@
-# ReUse | Mobile
-
+# ReUse App
 ## Contexto da Sprint
 Esta é a **Sprint 1** do projeto **ReUse**, uma plataforma digital voltada à economia sustentável, reutilização de produtos e consumo consciente.  
 O objetivo inicial é criar o **primeiro contato do usuário com o aplicativo mobile**, por meio de uma interface simples, clara e bem estruturada.
