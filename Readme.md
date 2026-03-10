@@ -52,4 +52,4 @@ O objetivo inicial é criar o **primeiro contato do usuário com o aplicativo mo
 
 ## Link do repositório:
 
-   [Github](https://github.com/YuriBragaJR/ReUseApp.git)
+   [Link Repositório ReUse!](https://github.com/YuriBragaJR/ReUseApp.git)
