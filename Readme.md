@@ -52,4 +52,4 @@ O objetivo inicial é criar o **primeiro contato do usuário com o aplicativo mo
 
 ## Prints da UI:
 
-   [Prints telas da ReUse!](https://fiapcom-my.sharepoint.com/:f:/g/personal/rm563293_fiap_com_br/IgCFOBwOhvovTaTfZanmDHx6AYcLDMT35EhFLCLc7YSD_E0?e=LLJayS)
+   [Prints telas da ReUse!](https://fiapcom-my.sharepoint.com/:i:/g/personal/rm563293_fiap_com_br/IQAvzPiFQm2oQIRXsaNX6Lh6ATmoLHnddPybcI4mMpnjRog?e=pT0LYj)
