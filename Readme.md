@@ -50,6 +50,6 @@ O objetivo inicial é criar o **primeiro contato do usuário com o aplicativo mo
 
 ---
 
-## Link do repositório:
+## Prints da UI:
 
-   [Link Repositório ReUse!](https://github.com/YuriBragaJR/ReUseApp.git)
+   [Prints telas da ReUse!](https://fiapcom-my.sharepoint.com/:f:/g/personal/rm563293_fiap_com_br/IgCFOBwOhvovTaTfZanmDHx6AYcLDMT35EhFLCLc7YSD_E0?e=LLJayS)
